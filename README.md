@@ -32,7 +32,7 @@
 
 ![mongo7](images/mongoDB-7.jpg)
 
-- ### Display all of the contacts list.
+- ### Displays all of the contacts list.
 
 ![mongo7](images/mongoDB-8.jpg)
 
